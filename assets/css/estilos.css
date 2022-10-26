@@ -31,3 +31,12 @@ body{
     content: "\e906";
     font-size: 24px;
 }
+
+.menu-lateral {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-lateral__logo {
+    align-self:center;
+}
